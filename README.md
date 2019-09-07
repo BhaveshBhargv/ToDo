@@ -1,7 +1,8 @@
 # ToDo # 
 
 A simple To-Do list application.
-Created with
+
+Created with:
 * HTML
 * CSS 
 * JavaScript.
