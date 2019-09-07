@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: rgb(141, 64, 148);              
+}
+.container{
+    background-color: rgb(224, 116, 116);
+    width: 100%;
+    padding: 10px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+form{
+    margin: 0px;
+    padding: 10px;
+}
+input{
+    width: 80%;
+    padding: 10px;
+    border: 0px;
+}
+button{
+    width: 19%;
+    padding: 10px;
+    border: 0px;
+}
+ul{
+    list-style-type: none;
+    margin: 20px;
+    padding: 10px;
+}
+li{
+    background-color: rgb(233, 231, 147);
+    padding: 5px;
+    margin: 10px;;
+}
