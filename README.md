@@ -1,11 +1,11 @@
-# ToDo # 
+# ToDo
 
 A simple To-Do list application.
 
 Created with:
 * HTML
 * CSS 
-* JavaScript.
+* JavaScript
 
 
 Check it out at: https://bhaveshbhargv.github.io/ToDo/
