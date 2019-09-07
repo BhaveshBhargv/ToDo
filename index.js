@@ -6,7 +6,7 @@ let li = document.createElement('li');
 li.appendChild(a);
 let task = document.getElementById('todo');
 if (input === '') {
-    alert("Add somthing to list");
+    alert("Write something to add");
   } else {
     document.getElementById("todo").appendChild(li);
   }
